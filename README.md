@@ -1,2 +1,1 @@
-# TEAM WORK ON AN ONLINE VOTING APPLICATION (RGUVote) FOR SOFTWARE PROJECT ENGINEERING (CMM004)
-# GROUP MEMBERS: ..............................................................................
+
